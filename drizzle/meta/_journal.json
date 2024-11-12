@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1731312728335,
+      "tag": "0000_plain_havok",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1731321848602,
+      "tag": "0001_exotic_giant_man",
+      "breakpoints": true
+    }
+  ]
+}
